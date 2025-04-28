@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1744595485 source:c:\projetos c++\impar\main.cpp
+	<iostream>
+	<locale>
+
