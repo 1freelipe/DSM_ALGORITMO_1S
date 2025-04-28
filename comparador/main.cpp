@@ -17,7 +17,7 @@ int main()
     if (n1 == n2 || n1 == n3) {
         contador = contador + 1;
     }
-    if (n2 == n3){
+    if (n2 == n3 || n2 == n1) {
         contador = contador + 1;
     }
 
