@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1747096481 source:c:\projetosc++\c\aula4\adivinhacao\main.cpp
+	<iostream>
+	<locale>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+
