@@ -1,0 +1,3 @@
+## Multiplicação de matriz e produto escalar
+
+O objetivo é ler duas matrizes dinâmicas pelo teclado, onde o usuário que irá decidir o tamanho das linhas e colunas que a matriz A e a matriz B vão ter, realizar o produto escalar entre essas duas matrizes e realizar a multiplicação dessas duas matrizes também. Ademais, o produto escalar entre uma matriz e outra, só poderá ocorrer se o número de linhas de A for igual ao número de colunas de B, se a condição for verdadeira, além da multiplicação o usuário também vai ver o produto escalar entre elas.
