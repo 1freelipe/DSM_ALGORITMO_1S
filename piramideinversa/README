@@ -1,0 +1,3 @@
+## Pirâmide inversa
+
+O objetivo do programa é ler um número pelo teclado e a partir desse número, formar uma pirâmide inversa com os números antecessores a ele. Detalhe, esse número lido precisa ser um número ímpar.

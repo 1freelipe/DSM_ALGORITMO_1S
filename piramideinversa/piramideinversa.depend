@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1751134679 source:c:\c++\piramideinversa\main.cpp
+	<iostream>
+	<locale>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1751133666 source:c:\c++\patoecoelho\main.cpp
+	<iostream>
+	<locale>
+

@@ -1,0 +1,3 @@
+## Operações com vetor
+
+O objetivo do código é ler dois vetores A e B pelo teclado, mostrar eles em seguida, mostrar a soma apenas dos valores contidos em A seguido da soma dos valores contidos em B, criar mais dois vetores C e D derivados da subtração desses dois vetores iniciais e por fim, mostrar o produto escalar entre os vetores iniciais. Produto escalar: (A * B) + (A * B) n vezes.
