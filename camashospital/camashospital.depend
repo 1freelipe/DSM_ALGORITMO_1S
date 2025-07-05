@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1751113898 source:c:\c++\camashospital\main.cpp
+	<iostream>
+	<locale>
+

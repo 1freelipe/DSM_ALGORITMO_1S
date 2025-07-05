@@ -1,0 +1,3 @@
+## Hospital
+
+O objetivo do código é criar um sistema que mede a pulsação de cada um dos pacientes contidos no quarto durante 24hrs, e ao fim do dia, mostrasse qual dos pacientes teve a maior média de pulsação e em qual cama ele se encontra e também, a média geral de todos os pacientes durante o dia.
