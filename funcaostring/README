@@ -1,0 +1,3 @@
+## Encontrando a letra
+
+O objetivo do código é ler um nome qualquer pelo teclado, e após o nome ler uma letra, o sistema irá retornar se essa letra foi encontrada no nome e, em caso positivo, em qual posição essa letra foi encontrada.

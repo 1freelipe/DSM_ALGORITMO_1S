@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1751122658 source:c:\c++\funcaostring\main.cpp
+	<iostream>
+	<string>
+
