@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753113373 source:c:\c++\vetornumerico\main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+
