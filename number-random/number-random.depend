@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753112958 source:c:\c++\number-random\main.cpp
+	<iostream>
+	<locale>
+	<iomanip>
+	<random>
+
